@@ -1,0 +1,8 @@
+opencv-python-headless==4.7.0.72
+matplotlib>=3.2.2
+numpy>=1.18.5
+requests>=2.23.0
+pandas>=1.1.4
+seaborn>=0.11.0
+flask==2.2.3
+gunicorn
